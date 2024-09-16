@@ -1,0 +1,3 @@
+{% for project in collections.projects %}
+{{ project.data.title }}
+{% endfor %}
