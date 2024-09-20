@@ -4,9 +4,9 @@
     --slate-300: #cbd5e1;
     --slate-600: #475569;
     --amber-100: #fef3c7;
-    --amber-600: #d97706;
-    --amber-700: #b45309;
-    --amber-800: #92400e;
+    --amber-600: #2ed1df;
+    --amber-700: #18c0c9;
+    --amber-800: #04a5b3;
     --box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1),
       0 4px 6px -4px rgb(0 0 0 / 0.1);
   }
@@ -93,6 +93,7 @@
     position: relative;
     margin-bottom: 1rem;
     margin-right: 1rem;
+    font-size: 1.5rem;
     color: var(--amber-600);
   }
   
